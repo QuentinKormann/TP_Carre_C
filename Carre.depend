@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477066612 source:c:\program files (x86)\codeblocks\projet\carre\main.c
+	<stdio.h>
+	<stdlib.h>
+
